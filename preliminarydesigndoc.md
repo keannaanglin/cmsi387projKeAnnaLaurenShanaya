@@ -11,6 +11,7 @@ For example, when Lauren types "finger KeAnna" in her terminal, the output is:
 With our modification, the output would also include KeAnna's rapper name: "Thug Jesus" in addition to the existing data.
 
 *insert pics of inspo charts*
+![](inspochart.jpg)
 
 ### Rationale 
 > We think this would be a comical addition for a command that often overlooked. We hope that with this new,fresh addition more users will be inspired to use this command! #spreadthelove
