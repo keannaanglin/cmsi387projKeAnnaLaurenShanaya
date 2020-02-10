@@ -6,11 +6,10 @@ Authors: KeAnna Anglin, Lauren Lindsey, and Shanaya Nagendran
 
 For example, when Lauren types "finger KeAnna" in her terminal, the output is: 
 
-*insert pic later*
+![](terminal.jpg)
 
 With our modification, the output would also include KeAnna's rapper name: "Thug Jesus" in addition to the existing data.
 
-*insert pics of inspo charts*
 ![](inspochart.jpg)
 
 ### Rationale 
