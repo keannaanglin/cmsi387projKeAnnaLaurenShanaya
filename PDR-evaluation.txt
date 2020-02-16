@@ -1,0 +1,14 @@
+KeAnna, Lauren, and Shanaya
+
+CMSI 387 Operating Systems
+   Semester Project
+===================================
+
+This should be a fun and interesting project!  I think the
+finger utility will be very instructive for you to modify, since
+it also has networking things built into it.  I like the idea of
+using the users' phone numbers and birth months as a basis for
+the encoding of the rapper name!
+
+Project approved.  Good work and good luck!
+
