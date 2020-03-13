@@ -6,11 +6,11 @@ For our semester project, we plan to modify the "finger" command to produce an a
 
 For example, when KeAnna types "finger KeAnna" in her terminal, the output is: 
 
-![](keannaterminal.png)
+![](images/keannaterminal.png)
 
 With our modification, the output would also include KeAnna's rapper name: "Thug Jesus" in addition to the existing data.
 
-![](inspochart.jpg)
+![](images/inspochart.jpg)
 
 ### Rationale 
 We think this would be a comical addition for a command that often overlooked. We hope that with this new,fresh addition more users will be inspired to use this command! #spreadthelove
