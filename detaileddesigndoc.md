@@ -53,7 +53,8 @@ And we plan to add another output line called "Rapper Name: " which will then gi
 As mentioned above, we plan to only modify the finger module by adding another output. We may need to add another function, or just add to an existing function with our ideal mapping from Name -> Rapper Name, as well as store variables for the letters we are using for this mapping. In this function, we will need to store our return value and print it out in similar fashion as the other outputted values. 
 
 ## Class diagram showing affected modules [and any new modules] and how they related to one another
-?
+![](images/classdiagram.jpeg)
+
 
 ## List or table of explanations of all command line options that will be implemented
 There will be no new command line options. The current command is "finger [username]", which will provide us with the information we need to make our change to the module. We figured since the finger command is not that common, adding an additional piece of information wouldn't really inconvinence those that use this command, as it isn't printing out much additional info and can be disregarded if neccessary. 
